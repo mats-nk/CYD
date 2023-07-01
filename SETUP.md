@@ -8,7 +8,7 @@ There really is nothing to setup here, just connect the CYD to a computer using 
 
 ## Software Setup
 
-The driver needs to be setup for uploading to the CYD, including webflashing projects. 
+The driver needs to be setup for uploading to the CYD, including webflashing projects.
 
 ### Driver
 
@@ -28,7 +28,7 @@ If you see errors uploading a sketch, try setting board upload speed to `115200`
 
 ### Library Configuration
 
-The CYD can work with a selection of different libraries, but the main one this repo will focus on is [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) as it is a fairly popular library for working with these types of dsiplays and there are lots of examples. 
+The CYD can work with a selection of different libraries, but the main one this repo will focus on is [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) as it is a fairly popular library for working with these types of displays and there are lots of examples.
 
 This can be installed from the library manager by searching for "TFT_eSPI".
 
