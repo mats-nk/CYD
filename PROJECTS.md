@@ -14,6 +14,8 @@ Projects appearing on here is not necessarily a seal of approval from me, I will
 |F1 Notifier|Displays and notifies you of the F1 session times(in your local timezone)|[Brian Lough](https://github.com/witnessmenow)||[Github](https://github.com/witnessmenow/F1-Arduino-Notifications)|[WebFlash](https://witnessmenow.github.io/F1-Arduino-Notifications/)|
 |Tetris with Nunchuck|A version of Tetris using a Nintendo wii Nunchuck|[Brian Lough](https://github.com/witnessmenow)|A nunchuck and an adaptor for connecting it|[Code](/Examples/Projects/TetrisWithNunchuck)||
 |Galagino|An emulator for some classic arcade games (Galaga, Donkey Kong, Pacman, Digdug and Frogger) |[Till Harbaum](https://github.com/harbaum)|A nunchuck and an adaptor for connecting it. Speaker if you want sound|[Github](https://github.com/harbaum/galagino)||
+|CYD-MQTT|Sends and receives info to/from a MQTT broker|[Mats Karlsson](https://github.com/mats-nk)|None|[Github](https://github.com/mats-nk/CYD-MQTT)||
+
 
 ## Adding a project
 
